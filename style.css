@@ -1,0 +1,30 @@
+body{
+color: white;
+background: rgb(248, 54, 87);
+background-position: center;
+}
+
+.heading{
+    width: 80%;
+    font-size: 22px;
+    background-color: yellow;
+}
+
+#camera{
+    border: 2px dashed black;
+    width: 350px;
+    height: 300px;
+}
+
+.name_of_objects,#result_object_name,#result_object_accuracy{
+    color: yellow;
+}
+#webcam_view{
+    color:yellow ;
+}
+#p{
+    color: yellow;
+    font-weight: bold;
+}
+
+
